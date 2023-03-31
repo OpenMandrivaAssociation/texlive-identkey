@@ -1,6 +1,6 @@
 Name:		texlive-identkey
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Typesetting bracketed dichotomous identification keys
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/identkey
