@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Typesetting bracketed dichotomous identification keys
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/identkey
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/identkey
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/identkey.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/identkey.doc.r%{version}.tar.xz
